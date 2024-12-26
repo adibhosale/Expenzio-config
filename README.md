@@ -1,2 +1,2 @@
 # Expenzio-config
-To store config for expenzio app
+This project contains configs for expenzio app
