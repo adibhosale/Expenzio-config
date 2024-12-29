@@ -12,6 +12,6 @@ eureka:
         fetch-registry: true
         register-with-eureka: true
         service-url:
-            defalutZone: https://expenzio-discovery-server-production.up.railway.app/
+            defaultZone: https://expenzio-discovery-server-production.up.railway.app/eurkea/
     instance:
         prefer-ip-address: true
