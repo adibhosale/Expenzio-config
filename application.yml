@@ -7,6 +7,6 @@ eureka:
         fetch-registry: true
         register-with-eureka: true
         service-url:
-            defalutZone: http://localhost:8761/eureka
+            defalutZone: https://expenzio-discovery-server-production.up.railway.app/eureka/
     instance:
         prefer-ip-address: true
